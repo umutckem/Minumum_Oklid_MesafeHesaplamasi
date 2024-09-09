@@ -17,4 +17,4 @@ Bu Python uygulaması, bir dizi 2D noktası arasındaki Öklid mesafelerini hesa
 
 1. Proje dosyasını bilgisayarınıza indirin.
 2. Python 3.x'in yüklü olduğundan emin olun.
-3. Aşağıdaki komutu kullanarak scripti çalıştırın:
+3. Kodlar code kısmında bulunuyor ordan erişip çalıştırabilirsiniz.
